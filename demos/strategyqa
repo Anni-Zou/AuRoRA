@@ -1,0 +1,40 @@
+{
+    "demo": [
+        {
+            "question": "Q: Will Queen Elizabeth be buried in the Pantheon?\nA:",
+            "rationale": "Let's think step by step. First, the Pantheon is a church, so it's possible that she could be buried there. Second, Queen Elizabeth II is still alive, so she hasn't been buried yet. Third, even if she were to be buried in the Pantheon, it's unlikely that we would know about it ahead of time, so it's hard to say for sure.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Would a vegetarian be able to eat something at Chick-fil-A?\nA:",
+            "rationale": "Let's think step by step. Chick-fil-A is a restaurant chain that specializes in chicken sandwiches. So right off the bat, we can say that a vegetarian probably wouldn't be able to find a sandwich that they could eat. However, Chick-fil-A does offer salads and sides that a vegetarian could eat.",
+            "pred_ans": "yes",
+            "gold_ans": "yes"
+        },
+        {
+            "question": "Q: Did Julia Roberts practice blast beats as a child?\nA:",
+            "rationale": "Let's think step by step. Julia Roberts, child. Blast beats, drums. Drums, music. Music, practice. Julia Roberts, practice. Yes, Julia Roberts practiced blast beats as a child.",
+            "pred_ans": "yes",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Did the 40th president of the United States forward lolcats to his friends?\nA:",
+            "rationale": "Let's think step by step. The 40th president of the United States was Ronald Reagan. There is no evidence that Ronald Reagan ever forwarded lolcats to his friends.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Could someone in Tokyo take a taxi to the The Metropolitan Museum of Art?\nA:",
+            "rationale": "Let's think step by step. First, the person in Tokyo would need to get to an airport. Then, they would need to fly to New York City. Once they arrived in New York City, they would need to take a taxi to the The Metropolitan Museum of Art. So, yes, it is possible for someone in Tokyo to take a taxi to the The Metropolitan Museum of Art, but it would be a long and expensive journey.",
+            "pred_ans": "yes",
+            "gold_ans": "no"
+        },
+        {
+            "question": "Q: Do all crustaceans live in the ocean?\nA:",
+            "rationale": "Let's think step by step. Crustaceans are a type of animal. Some animals live in the ocean. Therefore, some crustaceans live in the ocean. However, not all crustaceans live in the ocean. Some crustaceans, like woodlice, live on land.",
+            "pred_ans": "no",
+            "gold_ans": "no"
+        }
+    ]
+}

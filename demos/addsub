@@ -1,0 +1,52 @@
+{
+    "demo": [
+        {
+            "question": "Q: A restaurant served 9 hot dogs during lunch and 2 during dinner today . It served 5 of them yesterday . How many hot dogs were served today ?\nA:",
+            "rationale": "Let's think step by step. The restaurant served 9 hot dogs during lunch and 2 during dinner today. It served 5 of them yesterday. That means that the restaurant served a total of 16 hot dogs today.",
+            "pred_ans": "16",
+            "gold_ans": "11"
+        },
+        {
+            "question": "Q: There are 34 dogwood trees currently in the park . Park workers will plant 49 dogwood trees today . How many dogwood trees will the park have when the workers are finished ?\nA:",
+            "rationale": "Let's think step by step. There are 34 dogwood trees currently in the park. Park workers will plant 49 dogwood trees today. How many dogwood trees will the park have when the workers are finished? The park will have 83 dogwood trees when the workers are finished.",
+            "pred_ans": "83",
+            "gold_ans": "83"
+        },
+        {
+            "question": "Q: Sam had 7 pennies and 8 dimes in his bank . His sister borrowed 4 dimes . How many dimes does Sam have now ?\nA:",
+            "rationale": "Let's think step by step. Sam had 7 pennies and 8 dimes in his bank. His sister borrowed 4 dimes. That means that his sister took 4 dimes from Sam, so now Sam has 4 less dimes. So Sam has 8 - 4 = 4 dimes now.",
+            "pred_ans": "4",
+            "gold_ans": "4"
+        },
+        {
+            "question": "Q: There are 41 crayons and 26 pencils in the drawer . Sam placed 12 crayons in the drawer . How many crayons are now there in total ?\nA:",
+            "rationale": "Let's think step by step. There are 41 crayons in the drawer. Sam placed 12 crayons in the drawer. How many crayons are now there in total? There are now 41 + 12 = 53 crayons in the drawer.",
+            "pred_ans": "53",
+            "gold_ans": "53"
+        },
+        {
+            "question": "Q: Scarlett made a fruit salad with 0.25 pound of melon and 0.375 pound of berries . How many pounds of fruit did Scarlett use in all ?\nA:",
+            "rationale": "Let's think step by step. Scarlett made a fruit salad with 0.25 pound of melon and 0.375 pound of berries. This means that she used a total of 0.625 pounds of fruit.",
+            "pred_ans": "0.625",
+            "gold_ans": "0.625"
+        },
+        {
+            "question": "Q: Jason grew 32 watermelons and 22 cantelopes . Dan grew 31 watermelons . How many watermelons did they grow in total ?\nA:",
+            "rationale": "Let's think step by step. Jason grew 32 watermelons and 22 cantaloupes. Dan grew 31 watermelons. To find the total number of watermelons, we need to add 32 + 22 + 31. The answer is 85.",
+            "pred_ans": "85",
+            "gold_ans": "63"
+        },
+        {
+            "question": "Q: Eve ran 0.7 mile and walked 0.6 mile . How much farther did Eve run than walk ?\nA:",
+            "rationale": "Let's think step by step. Eve ran 0.7 mile. Eve walked 0.6 mile. Eve ran _____ mile more than she walked. Eve ran 0.1 mile more than she walked.",
+            "pred_ans": "0.1",
+            "gold_ans": "0.1"
+        },
+        {
+            "question": "Q: Mary found 18 seashells and Jessica found 41 seashells on the beach . How many seashells did they find together ?\nA:",
+            "rationale": "Let's think step by step. Mary found 18 seashells. Jessica found 41 seashells. That means they found a total of 18 + 41 = 59 seashells together.",
+            "pred_ans": "59",
+            "gold_ans": "59"
+        }
+    ]
+}

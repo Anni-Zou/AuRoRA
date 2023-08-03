@@ -1,0 +1,46 @@
+{
+    "demo": [
+        {
+            "question": "Q: Where do you store a large container? Answer Choices: (A) supermarket (B) factory (C) juice (D) hostel (E) cabinet\nA:",
+            "rationale": "Let's think step by step. We need to store a large container. It won't fit in a cabinet, so that's not the answer. It also won't fit in a juice container, so that's not the answer. It could fit in a factory, but that's not necessarily where you would store it. It could also fit in a supermarket, but that's not necessarily where you would store it. The most likely answer is a hostel.",
+            "pred_ans": "D",
+            "gold_ans": "E"
+        },
+        {
+            "question": "Q: WHere do people live? Answer Choices: (A) apartment (B) eat cake (C) bus depot (D) football stadium (E) surface of earth\nA:",
+            "rationale": "Let's think step by step. People need food, water, and shelter. They might also need transportation, but that's not essential for survival. So based on that, we can eliminate choices (B), (C), and (D). People could live on the surface of the earth, but they would be exposed to the elements and it would be difficult to find food and water. So choice (E) is probably not the best answer. That leaves us with choice (A) as the best answer.",
+            "pred_ans": "A",
+            "gold_ans": "E"
+        },
+        {
+            "question": "Q: What do people aim to do at work? Answer Choices: (A) complete job (B) learn from each other (C) kill animals (D) wear hats (E) talk to each other\nA:",
+            "rationale": "Let's think step by step. People usually go to work in order to earn money, which they can use to buy things they want or need. In order to do this, they must complete their job. This usually means working with others in order to get the job done efficiently. Sometimes, people learn new things from their coworkers. For example, they might learn a new skill or how to do their job better. Finally, people usually talk to their coworkers during their break or after work.",
+            "pred_ans": "A",
+            "gold_ans": "A"
+        },
+        {
+            "question": "Q: Where do all animals live? Answer Choices: (A) the moon (B) fairgrounds (C) surface of earth (D) meadow (E) zoos\nA:",
+            "rationale": "Let's think step by step. Do animals live on the moon? No. How about the fairgrounds? No. The surface of the Earth? Yes. Meadow? Yes. Zoos? Yes. The answer is C, surface of Earth.",
+            "pred_ans": "C",
+            "gold_ans": "C"
+        },
+        {
+            "question": "Q: Killing people should not cause what emotion? Answer Choices: (A) vengeance (B) going to prison (C) joy (D) afraid (E) terrible\nA:",
+            "rationale": "Let's think step by step. If someone kills another person, the natural reaction would be for the victim's friends or family to want revenge. However, killing another person is also a crime, so the perpetrator would likely go to prison. It's unlikely that the act of killing someone would bring joy. The perpetrator may be afraid of getting caught or facing retribution. Overall, the act of killing someone is likely to cause terrible emotions.",
+            "pred_ans": "E",
+            "gold_ans": "C"
+        },
+        {
+            "question": "Q: James couldn't get comfortable.  There was too much dirt.  He needed to clean out what? Answer Choices: (A) ground (B) subway (C) bank (D) bed (E) street\nA:",
+            "rationale": "Let's think step by step. James couldn't get comfortable. This means he was not able to relax. There was too much dirt. This means there was a lot of dirt, and it was making James uncomfortable. He needed to clean out what? This means he needed to remove the dirt. The answer must be something that James can clean out. The answer cannot be (A) ground, (B) subway, (C) bank, or (E) street. These are all places where there might be dirt, but James cannot remove the dirt from these places. The answer must be (D) bed.",
+            "pred_ans": "D",
+            "gold_ans": "D"
+        },
+        {
+            "question": "Q: The man started to learn jogging, what was he hoping to do? Answer Choices: (A) exhaustion (B) getting in shape (C) fitness (D) injure himself (E) fatigue\nA:",
+            "rationale": "Let's think step by step. The man started to learn jogging. This means that he did not know how to jog before. He is probably not very good at it. He is probably not in very good shape. He is probably not very fit. He is probably not very healthy. The most likely answer is that he is hoping to get in shape. This means that he wants to improve his physical condition by becoming more physically active.",
+            "pred_ans": "B",
+            "gold_ans": "B"
+        }
+    ]
+}

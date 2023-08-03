@@ -1,0 +1,52 @@
+{
+    "demo": [
+        {
+            "question": "Q: Paul had 115 books. He sold 78 books in a garage sale. How many books does he have left with him?\nA:",
+            "rationale": "Let's think step by step. Paul had 115 books. He sold 78 books in a garage sale. That means he has 115 - 78 = 37 books left with him.",
+            "pred_ans": "37",
+            "gold_ans": "37"
+        },
+        {
+            "question": "Q: Ed had 6 more marbles than Doug. Doug lost 7 of his marbles at the playground. If Ed had 22 marbles How many marbles does Doug have now?\nA:",
+            "rationale": "Let's think step by step. Ed had 6 more marbles than Doug. That means Doug had 22 - 6 = 16 marbles. Doug lost 7 of his marbles at the playground. That means Doug has 16 - 7 = 9 marbles now.",
+            "pred_ans": "9",
+            "gold_ans": "9"
+        },
+        {
+            "question": "Q: Baker sold 8 cakes. If he had made 40 cakes initially How many more cakes did baker make than those he sold?\nA:",
+            "rationale": "Let's think step by step. First, let's think about how to word this problem. We can say, \"Baker sold _____ cakes. If he had made _____ cakes initially, how many more cakes did baker make than those he sold?\" Now let's think about what we know. We know that the baker sold 8 cakes and that he made 40 cakes initially. From this, we can calculate that the baker made 32 more cakes than those he sold.",
+            "pred_ans": "32",
+            "gold_ans": "32"
+        },
+        {
+            "question": "Q: Jake has 84 more apples and 10 fewer peaches than Steven. Steven has 13 peaches and 52 apples. How many peaches does Jake have?\nA:",
+            "rationale": "Let's think step by step. Jake has 84 more apples than Steven. That means Jake has 84 + 52 = 136 apples. Jake has 10 fewer peaches than Steven. That means Jake has 13 - 10 = 3 peaches.",
+            "pred_ans": "3",
+            "gold_ans": "3"
+        },
+        {
+            "question": "Q: Every day Ryan spends 3 hours on learning english and some more hours on learning chinese. If he spends a total of 4 hours on learning english and chinese everyday How many hours does he spend on learning chinese?\nA:",
+            "rationale": "Let's think step by step. First, we know that Ryan spends 3 hours on learning English every day. Second, we know that Ryan spends a total of 4 hours on learning English and Chinese every day. From this, we can infer that Ryan spends 1 hour on learning Chinese every day.",
+            "pred_ans": "1",
+            "gold_ans": "1"
+        },
+        {
+            "question": "Q: 5 children were riding on the bus. At the bus stop 63 children got off the bus while some more got on the bus. Then there were 14 children altogether on the bus. How many more children got on the bus than those that got off?\nA:",
+            "rationale": "Let's think step by step. There were 63 children that got off the bus. That means there were 68 children on the bus before the 63 got off. 14 children remained on the bus, which means 54 children got on the bus. Therefore, 54 - 63 = -9. 9 more children got on the bus than those that got off.",
+            "pred_ans": "9",
+            "gold_ans": "9"
+        },
+        {
+            "question": "Q: Tiffany was collecting cans for recycling. On monday she had 3 bags of cans. The next day she found 7 more bags of cans and 44 bags of bottles. How many bags of cans did she have altogether?\nA:",
+            "rationale": "Let's think step by step. On Monday, Tiffany had 3 bags of cans. On Tuesday, she found 7 more bags of cans and 44 bags of bottles. So, altogether, Tiffany had 3 + 7 = 10 bags of cans.",
+            "pred_ans": "10",
+            "gold_ans": "10"
+        },
+        {
+            "question": "Q: The Razorback t-shirt shop sells each t-shirt for $ 201 dollars. During the Arkansas and Texas tech game they increased the prices by $ 217 per t-shirt and sold 14 t-shirts. How much money did they make from selling the t-shirts?\nA:",
+            "rationale": "Let's think step by step. The Razorback t-shirt shop sells each t-shirt for $201 dollars. During the Arkansas and Texas tech game they increased the prices by $217 per t-shirt. This means that each t-shirt now costs $418. If they sold 14 t-shirts, they made $5852 from selling the t-shirts.",
+            "pred_ans": "5852",
+            "gold_ans": "5852"
+        }
+    ]
+}
